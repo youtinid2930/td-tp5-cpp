@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\hp\desktop\tp-td5\exercice 0\libraire\main.cpp
+	<iostream>
+
+1713653263 source:c:\users\hp\desktop\tp-td5\exercice 0\libraire\livre.cpp
+	"livre.h"
+	<iostream>
+
+1713652988 c:\users\hp\desktop\tp-td5\exercice 0\libraire\livre.h
+	<string>
+
+1713661242 source:c:\users\hp\desktop\tp-td5\exercices\libraire\livre.cpp
+	"livre.h"
+	<iostream>
+
+1713660517 c:\users\hp\desktop\tp-td5\exercices\libraire\livre.h
+	<string>
+
+1713660996 source:c:\users\hp\desktop\tp-td5\exercices\libraire\main.cpp
+	<iostream>
+	"livre.h"
+	"roman.h"
+	"policier.h"
+	"beaulivre.h"
+	"libraire.h"
+
+1713656084 source:c:\users\hp\desktop\tp-td5\exercices\libraire\beaulivre.cpp
+	"beaulivre.h"
+	<iostream>
+
+1713655533 source:c:\users\hp\desktop\tp-td5\exercices\libraire\roman.cpp
+	"roman.h"
+	<iostream>
+
+1713655533 c:\users\hp\desktop\tp-td5\exercices\libraire\roman.h
+	"livre.h"
+
+1713655978 c:\users\hp\desktop\tp-td5\exercices\libraire\beaulivre.h
+	"livre.h"
+
+1713656639 source:c:\users\hp\desktop\tp-td5\exercices\libraire\policier.cpp
+	"policier.h"
+	<iostream>
+
+1713656639 c:\users\hp\desktop\tp-td5\exercices\libraire\policier.h
+	"roman.h"
+
+1713660352 source:c:\users\hp\desktop\tp-td5\exercices\libraire\libraire.cpp
+	"libraire.h"
+	<iostream>
+
+1713660119 c:\users\hp\desktop\tp-td5\exercices\libraire\libraire.h
+	"livre.h"
+	<vector>
+	<memory>
+
